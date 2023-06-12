@@ -24,7 +24,8 @@ specification               chart
 
 # Model
 
-- def: the intermediate descriptions(documents) produced in the process
+- definition
+  - the intermediate descriptions(documents) produced in the process
 - features
   - abstract view of a system
   - easy to understand
