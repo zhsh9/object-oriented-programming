@@ -9,7 +9,6 @@
   - [Diagrams](#diagrams)
   - [UML's diagram types](#umls-diagram-types)
 - [Software development process](#software-development-process)
-- [Inventory](#inventory-1)
 - [Objects](#objects)
 - [Class diagrams](#class-diagrams)
   - [Details](#details)
@@ -107,25 +106,6 @@ analysis -> design -> develop -> test -> deploy
 ```
 -> detailed analysis -> design -> develop -> test -> deploy ->
 ```
-
-# Inventory
-
-- [Inventory](#inventory)
-- [The process of software development](#the-process-of-software-development)
-- [Model](#model)
-- [Classes of methodologies](#classes-of-methodologies)
-- [UML](#uml)
-  - [Views](#views)
-  - [Diagrams](#diagrams)
-  - [UML's diagram types](#umls-diagram-types)
-- [Software development process](#software-development-process)
-- [Inventory](#inventory-1)
-- [Objects](#objects)
-- [Class diagrams](#class-diagrams)
-  - [Details](#details)
-  - [Create a class diagram](#create-a-class-diagram)
-- [An example of class diagram](#an-example-of-class-diagram)
-- [The applicability of the object model](#the-applicability-of-the-object-model)
 
 # Objects
 
