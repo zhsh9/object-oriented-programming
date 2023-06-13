@@ -2,7 +2,7 @@
 
 College of Software, NKU
 
-# Chapter Outline
+# Lecture Outline
 
 1. Intro
    - Why modeling
@@ -22,3 +22,20 @@ College of Software, NKU
          - links(send messages)
      - semantic foundation for UML's design models
    - example: the stock control
+3. Class diagram
+   - attributes
+   - operations
+   - relationship
+   - assoications, association generalization
+   - aggregation
+   - composite objects
+   - association classes
+   - qualified associations
+   - multiple inheritance in UML
+   - mixin class
+   - discriminators
+   - implementation of class dirgam
+     - uni-directional association
+     - bi-directional association
+     - implement qualifiers
+     - implementation of association classes

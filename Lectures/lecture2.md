@@ -1,3 +1,21 @@
+# Inventory
+
+- [Inventory](#inventory)
+- [Class diagram](#class-diagram)
+- [Relationship](#relationship)
+- [Attributes and operations](#attributes-and-operations)
+  - [Attribute of class](#attribute-of-class)
+  - [Operation of class](#operation-of-class)
+  - [Object identity](#object-identity)
+- [Multiplicity](#multiplicity)
+  - [Class multiplicity](#class-multiplicity)
+- [Association](#association)
+- [Generalization and specialization](#generalization-and-specialization)
+- [Association generalization](#association-generalization)
+- [Aggregation](#aggregation)
+- [Composite objects](#composite-objects)
+- [Association classes](#association-classes)
+
 # Class diagram
 
 Vidoe ref: [UML Class Diagram Tutorial](https://www.bilibili.com/video/BV1P741127u7)
