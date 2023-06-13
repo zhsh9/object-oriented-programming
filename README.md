@@ -2,7 +2,7 @@
 
 College of Software, NKU
 
-# Lecture Outline
+# Chapter Outline
 
 1. Intro
    - Why modeling
@@ -12,5 +12,13 @@ College of Software, NKU
      - Views
      - Diagrams
 2. Modeling with objects
-   - Properties, navigibility, message passing
-   - Strength of OOP
+   - properties, navigibility, message passing
+   - strength of OOP
+   - the object model
+     - data + operations
+     - execution of a program
+       - a dynamic network of intercommunicating objects
+         - nodes(object)
+         - links(send messages)
+     - semantic foundation for UML's design models
+   - example: the stock control
