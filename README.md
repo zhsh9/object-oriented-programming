@@ -14,6 +14,9 @@
   - [ ] 顺序图
   - [ ] 状态图
 - Design pattern
+  - [ ] 组合模式
+  - [ ] 策略模式
+  - [ ] 装饰器模式
 
 # Lecture Outline
 
@@ -95,3 +98,10 @@ State diagram of automatic ticket machine:
 State diagram of order system:
 
 ![order system](./.readme-imgs/jingling.png)
+
+
+# Examples of design pattern
+
+Statement design:
+
+![statement](./.readme-imgs/statement.jpg)
