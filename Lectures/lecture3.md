@@ -45,3 +45,43 @@ details:
 - a mixin class: to provide an optional interface of functionality to other classes
 - similar to an abstract classes in that it's not intended to be instantiated
 - mixin classes require multiple inheritance
+
+# Discriminator
+
+# Implement associations
+
+- uni-directional links
+- bi-directional links
+- both should be hidden from client code
+
+# Implement association classes
+
+- solution: transform the association class into a sample class linked to the two original classes
+- interface of the two original classes (unchanged)
+- constraints should be imposed
+
+
+```
+model -> registration(mark:Integer) -> student
+```
+
+```c++
+class Registration {
+    Student * pStudent;
+    int mark; // the attr of the link
+public:
+    Registration(Student * st) {
+        pStudent = st;
+        mark = 0;
+    }
+}
+
+class Module {
+    vector<Registration*> regs;
+public:
+    void enrol(Student * st) {
+        // interface remains.
+        regs.push_back(new Registration(st));
+    }
+}
+```
