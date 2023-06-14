@@ -7,6 +7,7 @@
 - [Composite pattern](#composite-pattern)
 - [Strategy pattern](#strategy-pattern)
 - [Decorator pattern](#decorator-pattern)
+- [Example: IO stream class](#example-io-stream-class)
 
 # Lecture Outline
 
@@ -73,7 +74,7 @@ composition and compositor:
 
 user interface, decorator:
 
-![]()
+![decorator](./imgs/3.png)
 
 # Composite pattern
 
@@ -103,3 +104,7 @@ more.
   - Forwards requests to the basic class
   - Perform any additional actions before or after the forwarding
 - Consequence: decorators can be nested recursively.
+
+# Example: IO stream class
+
+[on index README page.](../README.mds)

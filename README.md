@@ -17,6 +17,7 @@
   - [ ] 组合模式
   - [ ] 策略模式
   - [ ] 装饰器模式
+  - [ ] 命令模式
   - [ ] **工厂模式**
 
 # Lecture Outline
@@ -103,12 +104,35 @@ State diagram of order system:
 
 # Examples of design pattern
 
-**Document editor design:**
+## Document editor design
 
-- Statement design:
+1. Statement design
 
 ![statement](./Lectures-of-design-pattern/imgs/1.jpg)
 
-- composition and compositor:
+2. composition and compositor
 
 ![comp](./Lectures-of-design-pattern/imgs/2.png)
+
+## IO stream class
+
+1. Solution1: use flags -> fat root class
+
+![s1](./Lectures-of-design-pattern/imgs/4.png)
+
+2. Solution2: use decorator pattern
+
+```c++
+Stream * fStream = new FileStream("test.cpp");
+Stream * mStream = new MemoryStream();
+Stream * fcStream = new CompressingStream( new FileStream("test.cpp") );
+Stream * f7Stream = new ASCII7Stream ( new FileStream("test.cpp") );
+Stream * fc7Stream = new CompressingStream( 
+new ASCII7Stream ( new FileStream("test.cpp") ));
+
+fc7Stream->PutInt(12);
+fc7Stream->PutString("hello");
+
+```
+
+![s1](./Lectures-of-design-pattern/imgs/5.png)
