@@ -14,10 +14,10 @@
   - [ ] 顺序图
   - [ ] 状态图
 - Design pattern
-  - [ ] 组合模式
-  - [ ] 策略模式
-  - [ ] 装饰器模式
-  - [ ] 命令模式
+  - [ ] 组合模式 -> document data
+  - [ ] 策略模式 -> document formatting
+  - [ ] 装饰器模式 -> user interface elements
+  - [ ] 命令模式 -> undo/redo command
   - [ ] **工厂模式**
 
 # Lecture Outline
@@ -86,6 +86,7 @@
      - compisite pattern (doc data)
      - strategy pattern (doc formatting)
      - decorator pattern (interface elements)
+   - command pattern (undo+redo)
 
 # Examples of diagram
 
@@ -136,3 +137,8 @@ fc7Stream->PutString("hello");
 ```
 
 ![s1](./Lectures-of-design-pattern/imgs/5.png)
+
+## Undo/Redo
+
+[GO](./Lectures-of-design-pattern/lecture7.md)
+
