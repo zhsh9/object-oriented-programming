@@ -39,3 +39,10 @@ College of Software, NKU
      - bi-directional association
      - implement qualifiers
      - implementation of association classes
+
+
+# Examples
+
+Library class diagram:
+
+![library](./.readme-imgs/library.jpg)
