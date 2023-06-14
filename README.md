@@ -93,7 +93,7 @@ Library class diagram:
 
 State diagram of automatic ticket machine:
 
-![ticket machine](./Lectures/imgs/6.png)
+![ticket machine](./Lectures-of-uml/imgs/6.png)
 
 State diagram of order system:
 
