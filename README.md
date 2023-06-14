@@ -39,7 +39,17 @@
      - bi-directional association
      - implement qualifiers
      - implementation of association classes
-
+4. Use-case diagram
+   - actors
+   - a use-case should be abstract
+   - generalization, specialization
+   - inclusion, extension
+5. Sequence diagram
+   1. first step of designing
+   2. an example
+   3. components of a sequence diagram
+   4. collaboration diagram
+   5. condiional/asynchronous message, etc
 
 # Examples
 
