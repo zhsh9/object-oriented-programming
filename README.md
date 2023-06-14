@@ -6,6 +6,15 @@
 
 - [yEf live](https://www.yworks.com/yed-live/)
 
+# Emphasis
+
+- UML
+  - [ ] 类图
+  - [ ] 用例图
+  - [ ] 顺序图
+  - [ ] 状态图
+- Design pattern
+
 # Lecture Outline
 
 1. Intro
@@ -65,6 +74,13 @@
    - a real example
    - quiz on automatic ticket machine
    - implementation of statechart
+7. Basics of design pattern
+   - description
+   - roles
+   - a case: design a document editor
+     - compisite pattern (doc data)
+     - strategy pattern (doc formatting)
+     - decorator pattern (interface elements)
 
 # Examples of diagram
 
