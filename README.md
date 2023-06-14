@@ -54,9 +54,28 @@
    3. components of a sequence diagram
    4. collaboration diagram
    5. condiional/asynchronous message, etc
+6. State diagram
+   - why statechart
+   - state, transition, initlial and final states
+   - actions, guard conditions
+   - entry and exit action
+   - activities
+   - composite states
+   - history states
+   - a real example
+   - quiz on automatic ticket machine
+   - implementation of statechart
 
-# Examples
+# Examples of diagram
 
 Library class diagram:
 
 ![library](./.readme-imgs/library.jpg)
+
+State diagram of automatic ticket machine:
+
+![ticket machine](./Lectures/imgs/6.png)
+
+State diagram of order system:
+
+![order system](./.readme-imgs/jingling.png)
