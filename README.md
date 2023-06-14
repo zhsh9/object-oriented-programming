@@ -1,6 +1,6 @@
-# 面向对象软件方法学
+# Class
 
-College of Software, NKU
+面向对象软件方法学, College of Software, NKU
 
 # Lecture Outline
 
