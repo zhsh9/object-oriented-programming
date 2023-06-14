@@ -39,6 +39,8 @@ Outline:
 - aggregation
 - composition
 
+![relationship](./imgs/1.png)
+
 # Attributes and operations
 
 ```
