@@ -5,7 +5,6 @@
 - [The concept of design pattern](#the-concept-of-design-pattern)
 - [Specific problem](#specific-problem)
 - [Composite pattern](#composite-pattern)
-- [Example: statement design](#example-statement-design)
 - [Strategy pattern](#strategy-pattern)
 - [Decorator pattern](#decorator-pattern)
 
@@ -64,6 +63,18 @@ design problesm:
 - User Operations
 - Spelling checking and hyphenation
 
+statement design:
+
+![statement](./imgs/1.jpg)
+
+composition and compositor:
+
+![comp](./imgs/2.png)
+
+user interface, decorator:
+
+![]()
+
 # Composite pattern
 
 - applicability
@@ -77,10 +88,18 @@ design problesm:
     - access and manage its child components
     - access a component's parent
 
-# Example: statement design
-
-![statement](../.readme-imgs/statement.jpg)
-
 # Strategy pattern
 
+more.
+
 # Decorator pattern
+
+more.
+
+- for user interface
+- The basic class is enclosed by a decorator class
+- The decorator class conforms to the interface of the basic class.
+- Implementation of the interface:
+  - Forwards requests to the basic class
+  - Perform any additional actions before or after the forwarding
+- Consequence: decorators can be nested recursively.

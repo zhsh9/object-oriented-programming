@@ -9,7 +9,7 @@
 # Emphasis
 
 - UML
-  - [ ] 类图
+  - [ ] **类图**
   - [ ] 用例图
   - [ ] 顺序图
   - [ ] 状态图
@@ -17,6 +17,7 @@
   - [ ] 组合模式
   - [ ] 策略模式
   - [ ] 装饰器模式
+  - [ ] **工厂模式**
 
 # Lecture Outline
 
@@ -102,11 +103,12 @@ State diagram of order system:
 
 # Examples of design pattern
 
-Statement design:
-
-![statement](./.readme-imgs/statement.jpg)
-
 **Document editor design:**
 
-![doc editor]()
+- Statement design:
 
+![statement](./Lectures-of-design-pattern/imgs/1.jpg)
+
+- composition and compositor:
+
+![comp](./Lectures-of-design-pattern/imgs/2.png)
