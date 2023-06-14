@@ -1,3 +1,15 @@
+# Inventory
+
+- [Inventory](#inventory)
+- [Outline](#outline)
+- [Qualified association](#qualified-association)
+  - [Qualifier and identifier](#qualifier-and-identifier)
+- [Multiple inheritance in UML](#multiple-inheritance-in-uml)
+- [Mixin class](#mixin-class)
+- [Discriminator](#discriminator)
+- [Implement associations](#implement-associations)
+- [Implement association classes](#implement-association-classes)
+
 # Outline
 
 - qualified associations
