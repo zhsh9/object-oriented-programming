@@ -1,3 +1,15 @@
+# Inventory
+
+- [Inventory](#inventory)
+- [Use-case diagram](#use-case-diagram)
+  - [Actors](#actors)
+  - [Use case](#use-case)
+- [Sequence diagram](#sequence-diagram)
+  - [Elements in a sequence diagram](#elements-in-a-sequence-diagram)
+- [A collaboration diagram](#a-collaboration-diagram)
+- [Extension of use case](#extension-of-use-case)
+- [Examples](#examples)
+
 # Use-case diagram
 
 - role played
