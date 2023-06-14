@@ -133,7 +133,6 @@ new ASCII7Stream ( new FileStream("test.cpp") ));
 
 fc7Stream->PutInt(12);
 fc7Stream->PutString("hello");
-
 ```
 
 ![s1](./Lectures-of-design-pattern/imgs/5.png)
