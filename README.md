@@ -19,8 +19,10 @@
   - [ ] 装饰器模式 -> user interface
   - [ ] 命令模式 -> document editing (undo/redo command)
   - [ ] 抽象工厂模式 -> abstract widget class & subclass
-  - [ ] 迭代器模式、访问者模式 -> iterator in list
+  - [ ] 迭代器模式 -> iterator in list, robust iterator, pre-order traverse
+  - [ ] 访问者模式
   - [ ] 代理模式 -> relieve iterator
+  - [ ] 建造者模式
   - [ ] **工厂模式**
 
 # Lecture Outline
