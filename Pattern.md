@@ -1,3 +1,19 @@
+# Inventory
+
+- [Inventory](#inventory)
+- [Reference](#reference)
+- [命令模式](#命令模式)
+- [迭代器模式](#迭代器模式)
+- [访问者模式](#访问者模式)
+  - [构建者模式](#构建者模式)
+- [工厂模式](#工厂模式)
+- [原型模式](#原型模式)
+- [适配器模式](#适配器模式)
+- [桥接模式](#桥接模式)
+- [责任链模式](#责任链模式)
+- [解释器模式](#解释器模式)
+
+
 # Reference
 
 - [设计模式目录](https://refactoringguru.cn/design-patterns/catalog)
