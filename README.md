@@ -11,10 +11,10 @@ Classmate's note: [面向对象分析与设计](https://www.yuque.com/arcturus/o
 # Emphasis
 
 - [UML](./UML.md)
-  - [ ] **类图**
-  - [ ] 用例图
-  - [ ] 顺序图
-  - [ ] 状态图
+  - [x] **类图**
+  - [x] 用例图
+  - [x] 顺序图
+  - [x] 状态图
 - [Design pattern](./Pattern.md)
   - [ ] 组合模式 -> document data
   - [ ] 策略模式 -> document formatting
