@@ -34,7 +34,7 @@ Classmate's note: [面向对象分析与设计](https://www.yuque.com/arcturus/o
   - [ ] 解释器模式 -> boolean expression
   - [ ] 观察者模式 -> excel data visualization
   - [ ] 单例模式 -> option manage
-  - [ ] CRTP模式 -> 对象地址登记与检查
+  - [ ] 奇异递归(CRTP)模式 -> 对象地址登记与检查
 
 # Lecture Outline
 

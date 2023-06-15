@@ -72,3 +72,46 @@ class Typelnfo<T[N]> {
 };
 ```
 
+# CRTP模式
+
+ref: 正向成长, https://juejin.cn/post/7121364810058432549
+
+CRTP, Curiously Recurring Template Pattern(奇特的递归模板模式)代表了类实现技术中一种通用的模式，即派生类将本身作为模板参数传递给基类。它的实现形式有：
+
+1. 最简单的情形。CRTP有一个非依赖型基类`Curious`不是模板，因此免于与依赖型基类`CuriousBase`的名字可见性等问题纠缠
+
+```c++
+template <typename Derived>
+class CuriousBase {
+    ......
+};
+class Curious : public CuriousBase<Curious> {
+    ......
+};
+```
+
+2. 非依赖型基类是模板
+
+```c++
+template <typename Derived>
+class CuriousBase {
+    ......
+};
+template <typename T>
+class CuriousTemplate : public CuriousBase<CuriousTemplate<T> > {
+    ......
+};
+```
+
+3. 模板的模板参数
+
+```c++
+template <template<typename> class Derived>
+class MoreCuriousBase {
+    ......
+};
+template <typename T>
+class MoreCurious : public MoreCuriousBase<MoreCurious>{ 
+    ......
+};
+```
