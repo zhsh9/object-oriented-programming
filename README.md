@@ -2,6 +2,8 @@
 
 面向对象软件方法学, College of Software, NKU
 
+Classmate's note: [面向对象分析与设计](https://www.yuque.com/arcturus/object)
+
 # Online tool
 
 - [yEf live](https://www.yworks.com/yed-live/)
