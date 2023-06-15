@@ -30,6 +30,8 @@
   - [ ] 外观模式 -> compiler system
   - [ ] 责任链模式 -> help handler
   - [ ] 解释器模式 -> boolean expression
+  - [ ] 观察者模式 -> excel data visualization
+  - [ ] 单例模式 -> option manage
 
 # Lecture Outline
 
@@ -113,6 +115,8 @@
 15. Facade pattern
 16. Chain of responsiblity
 17. Interpreter pattern
+18. Observer pattern
+19. Case: sort
 
 # Examples of diagram
 
