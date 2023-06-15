@@ -22,8 +22,9 @@
   - [ ] 迭代器模式 -> iterator in list, robust iterator, pre-order traverse
   - [ ] 访问者模式
   - [ ] 代理模式 -> relieve iterator
-  - [ ] 建造者模式
-  - [ ] **工厂模式**
+  - [ ] 建造者模式 -> RTF document reader
+  - [ ] **工厂模式** -> multiple document framework
+  - [ ] 原型模式 -> editor for music scores
 
 # Lecture Outline
 
@@ -99,6 +100,9 @@
   - iterator
   - proxy pattern
   - pre-order traversing
+10. Builder pattern
+11. Factory method pattern
+12. Prototype pattern
 
 # Examples of diagram
 
