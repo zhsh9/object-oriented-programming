@@ -25,6 +25,8 @@
   - [ ] 建造者模式 -> RTF document reader
   - [ ] **工厂模式** -> multiple document framework
   - [ ] 原型模式 -> editor for music scores
+  - [ ] 适配器模式 -> drawing editor
+  - [ ] 桥接模式 -> portable window
 
 # Lecture Outline
 
@@ -103,6 +105,11 @@
 10. Builder pattern
 11. Factory method pattern
 12. Prototype pattern
+13. Adaptor pattern
+14. Bridge pattern
+15. Facade pattern
+16. Chain of responsiblity
+17. Interpreter pattern
 
 # Examples of diagram
 
