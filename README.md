@@ -27,6 +27,9 @@
   - [ ] 原型模式 -> editor for music scores
   - [ ] 适配器模式 -> drawing editor
   - [ ] 桥接模式 -> portable window
+  - [ ] 外观模式 -> compiler system
+  - [ ] 责任链模式 -> help handler
+  - [ ] 解释器模式 -> boolean expression
 
 # Lecture Outline
 
