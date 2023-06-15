@@ -157,3 +157,13 @@ fc7Stream->PutString("hello");
 
 [GO](./Lectures-of-design-pattern/lecture7.md)
 
+
+## Create with product ID
+
+factory method pattern
+
+![factory](./.readme-imgs/factorMethod_createWithProductId.png)
+
+## A game based on prototype pattern
+
+![proto](./.readme-imgs/prototypePatternForAGame.png)
