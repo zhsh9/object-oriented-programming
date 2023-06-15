@@ -8,16 +8,18 @@
 
 # Emphasis
 
-- UML
+- [UML](./UML.md)
   - [ ] **类图**
   - [ ] 用例图
   - [ ] 顺序图
   - [ ] 状态图
-- Design pattern
+- [Design pattern](./Pattern.md)
   - [ ] 组合模式 -> document data
   - [ ] 策略模式 -> document formatting
   - [ ] 装饰器模式 -> user interface
   - [ ] 命令模式 -> document editing (undo/redo command)
+  - [ ] 抽象工厂模式
+  - [ ] 迭代器模式、访问者模式
   - [ ] **工厂模式**
 
 # Lecture Outline
@@ -87,6 +89,13 @@
      - strategy pattern (doc formatting)
      - decorator pattern (interface elements)
    - command pattern (undo+redo)
+8. abstract factory pattern
+  - pattern
+  - implementation (singleton, make)
+9. iterator & visitor pattern
+  - iterator
+  - proxy pattern
+  - pre-order traversing
 
 # Examples of diagram
 
