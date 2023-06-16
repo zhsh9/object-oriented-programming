@@ -16,8 +16,8 @@ Classmate's note: [面向对象分析与设计](https://www.yuque.com/arcturus/o
   - [x] 顺序图
   - [x] 状态图
 - [Design pattern](./Pattern.md)
-  - [ ] 组合模式 -> document data
-  - [ ] 策略模式 -> document formatting
+  - [x] 组合模式 -> document data
+  - [x] 策略模式 -> document formatting
   - [ ] 装饰器模式 -> user interface
   - [ ] 命令模式 -> document editing (undo/redo command)
   - [ ] 抽象工厂模式 -> abstract widget class & subclass
